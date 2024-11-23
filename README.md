@@ -1,9 +1,33 @@
 ![👋 Hi, my name is Kien Nguyen](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
+ <h1 align="center">Hi 👋, I'm <a href="https://github.com/ntheanh-dev" target="blank">
+TrungKien</a></h1>
+<h5 align="center">A third-year Computer Science student, with a goal to become a Software Engineer.</h5>
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="240" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+<ul>
+<li>
+<p>🌱 I'm currently studying at Ho Chi Minh Open University</p>
+</li>
+<li>
+<p>👯 I’m looking to collaborate on github</p>
+</li>
+<li>
+<p>🤔 I’m looking for help with code!</p>
+</li>
+
+
+</ul>
+<h3 > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 ## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100035006619484) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit) 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=01F71F&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hi%2C+my+name+is+Nhat+Nguyen)](https://git.io/typing-svg)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100035006619484) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kien-nguyentrung-a62b89309/) 
+
+
+
+
 
 
 
